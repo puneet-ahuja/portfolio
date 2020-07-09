@@ -1,0 +1,26 @@
+.about-section-heading {
+    margin: 15px 0;
+
+    font-size: 40px;
+    font-weight: bold;
+    color: rgba(0, 47, 52, 1);
+}
+
+.about-section-subheading {
+    margin: 15px 0;
+
+    font-size: 20px;
+    color: rgba(0, 47, 52, 1);
+}
+
+.about-section-subheading:last-of-type {
+    border-bottom: 1px solid rgba(0, 47, 52, .20);
+    padding-bottom: 30px;
+}
+
+.category-title {
+    margin: 20px 0 10px;
+    font-size: 24px;
+    font-weight: bold;
+    color: rgba(0, 47, 52, .64);
+}
