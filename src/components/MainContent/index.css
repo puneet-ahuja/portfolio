@@ -1,4 +1,4 @@
-/* TODO : Need to remove this. */
 .main-content{
-    height: 200vh;
+    padding: 100px;
+    flex-grow: 1;
 }

@@ -4,8 +4,7 @@
 
 .navigation-item {
     margin: 10px;
-    padding: 20px 20px;
-
+    
     font-weight: 500;
     color: rgba(0, 47, 52, 1);
     background-color: rgba(0, 47, 52, .03);
@@ -15,4 +14,13 @@
 .navigation-item:hover {
     cursor: pointer;
     background-color: rgba(0, 47, 52, .10);;
+}
+
+.navigation-link {
+    display: block;
+    
+    padding: 20px 20px;
+
+    text-decoration: none;
+    color: inherit;
 }

@@ -3,16 +3,20 @@
 
 export const navItems = [
     {
-        title: 'About'
+        title: 'About',
+        href: '#about'
     },
     {
-        title: 'Experience'
+        title: 'Experience',
+        href: '#experience'
     },
     {
-        title: 'Projects'
+        title: 'Projects',
+        href: '#projects'
     },
     {
-        title: 'Blogs'
+        title: 'Blogs',
+        href: '#blogs'
     },
 
 ]

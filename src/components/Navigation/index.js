@@ -8,13 +8,13 @@ function Navigation({ navItems=[] }) {
     return (
         <div className="navigation-container">
             {navItems.map((navItem,index)=>{
-                const { title } = navItem
+                const { title,href } = navItem
                 return (
                     <div
                         key={index}
                         className='navigation-item'
                     >
-                        <div>{title}</div>
+                        <a href={href} className='navigation-link'>{title}</a>
                     </div>
                 )
             })}
