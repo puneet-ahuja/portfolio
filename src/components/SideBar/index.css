@@ -1,0 +1,10 @@
+/* 
+    TODO : Need to verify if sticky is required here or not.
+    TODO : Need to verify if height is required or not.
+*/
+.sidebar {
+    width: 300px;
+    height: 100vh;
+    position: sticky;
+    box-shadow: 5px 0px 5px rgba(0, 47, 52, .2); 
+}

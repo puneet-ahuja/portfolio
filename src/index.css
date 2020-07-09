@@ -11,3 +11,25 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+/* 
+    blackGradients: rgba(0, 47, 52, 0),
+    blackBackground: rgba(0, 47, 52, .03),
+    blackDividers: rgba(0, 47, 52, .20),
+    blackDisabled: rgba(0, 47, 52, .36),
+    blackHintText: rgba(0, 47, 52, .36),
+    blackSecondaryText: rgba(0, 47, 52, .64),
+    blackIcons: rgba(0, 47, 52, .64),
+    blackText: rgba(0, 47, 52, 1), //BLACK CHARCOAL: #002F34
+    white: rgba(255, 255, 255, 1),
+    whiteGradients: rgba(255, 255, 255, 0),
+    whiteDividers: rgba(255, 255, 255, .20),
+    whiteDisabled: rgba(255, 255, 255, .20),
+    whiteHintText: rgba(255, 255, 255, .20),
+    whiteSecondaryText: rgba(255, 255, 255, .7),
+    whiteIcons: rgba(255, 255, 255, 1),
+    whiteText: rgba(255, 255, 255, 1),
+    background: rgba(235, 238, 239, 1), //ebeeef
+    greyBorder: rgba(0, 48, 52, 1),
+    lightGrey: rgba(219, 219, 219, 1)
+*/
