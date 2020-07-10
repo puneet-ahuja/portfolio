@@ -6,12 +6,12 @@ export const sections = [
     {
         title: 'Experience',
         id: 'experience',
-        type: 'Experience'
+        type: 'experience'
     },
     {
-        title: 'Projects',
-        id: 'projects',
-        type: 'projects'
+        title: 'Videos',
+        id: 'videos',
+        type: 'videos'
     },
     {
         title: 'Blogs',
