@@ -1,13 +1,22 @@
 import React from 'react';
 import './index.css';
-import AboutSection from './components/AboutSection'
+import AboutSection from './components/AboutSection';
+import ExperienceSection from './components/ExperienceSection';
+import VideosSection from './components/VideosSection'
+
 
 function Section({title,type,id}) {
 
     const renderSection = () => {
         switch(type){
             case 'about':
-                return <AboutSection/>
+                return <AboutSection/>;
+
+            case 'experience':
+                return <ExperienceSection/>
+
+            case 'videos':
+                return <VideosSection/>
 
             default: 
             break;
