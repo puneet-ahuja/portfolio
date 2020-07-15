@@ -13,7 +13,7 @@
 
 .navigation-item:hover {
     cursor: pointer;
-    background-color: rgba(0, 47, 52, .10);;
+    background-color: rgba(0, 47, 52, .10);
 }
 
 .navigation-link {

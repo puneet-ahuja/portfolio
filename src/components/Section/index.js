@@ -2,8 +2,8 @@ import React from 'react';
 import './index.css';
 import AboutSection from './components/AboutSection';
 import ExperienceSection from './components/ExperienceSection';
-import VideosSection from './components/VideosSection'
-
+import VideosSection from './components/VideosSection';
+import BlogsSection from './components/BlogsSection';
 
 function Section({title,type,id}) {
 
@@ -17,6 +17,9 @@ function Section({title,type,id}) {
 
             case 'videos':
                 return <VideosSection/>
+            
+            case 'blogs':
+                return <BlogsSection/>
 
             default: 
             break;

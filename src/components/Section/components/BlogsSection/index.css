@@ -1,0 +1,43 @@
+.blogs-container {
+    padding: 20px 0;
+}
+
+.blog-container {
+    display: flex;
+    padding: 20px 0;
+}
+
+.blog-container:not(:last-of-type) {
+    border-bottom: 1px solid  rgba(0, 47, 52, .20);
+}
+
+.blog-image {
+    height: 150px;
+    width: 280px;
+}
+
+.blog-details {
+    margin-left: 20px;
+    color: rgba(0, 47, 52, 1);
+}
+
+.blog-title {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.blog-description {
+    margin-bottom: 20px;
+}
+
+.blog-link {
+    text-decoration: none;
+    color: rgba(0, 47, 52, 1);
+    font-weight: bold;
+}
+
+.blog-link:hover {
+    font-weight: normal;
+    cursor: pointer;
+}
