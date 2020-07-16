@@ -13,3 +13,11 @@
     background-color: rgba(0, 47, 52, .1);
     box-shadow: none;
 }
+
+@media only screen and (max-width: 450px) {
+    .tag {
+        margin: 5px 10px;
+
+        box-shadow: 0 0 3px 3px rgba(0, 47, 52, .03);
+    }
+}

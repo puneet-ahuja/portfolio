@@ -1,4 +1,12 @@
 .main-content{
-    padding: 20px 100px;
-    flex-grow: 1;
+    padding: 20px 100px 20px 400px;
+}
+@media only screen and (max-width: 450px) {
+   .main-content {
+    padding: 0;
+   }
+}
+
+html {
+    scroll-behavior: smooth;
 }

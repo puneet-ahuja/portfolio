@@ -2,6 +2,12 @@
     padding: 20px 10px;
 }
 
+@media only screen and (max-width: 450px) {
+    .navigation-container {
+        display: none;
+    }
+}
+
 .navigation-item {
     margin: 10px;
     
