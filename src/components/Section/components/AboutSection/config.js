@@ -1,6 +1,6 @@
 export const aboutDetails = [
     {
-        title: 'Technologies I like:',
+        title: 'Technologies :',
         data: [
             'React',
             'Redux',
@@ -13,7 +13,7 @@ export const aboutDetails = [
         ]
     },
     {
-        title: 'Also Familiar With:',
+        title: 'Also Passionate About:',
         data: [
             'Search Engine Optimization',
             'Service Workers',

@@ -4,7 +4,7 @@ import { experiences } from './config'
 
 function ExperienceSection() {    
     return (
-        <div>
+        <div className='experiences-container'>
             {experiences.map(( experience, index )=>{
                 return <Experience {...experience} key={index}/>
             })}

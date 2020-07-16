@@ -18,7 +18,6 @@ function Navigation({ navItems=[] }) {
                     </div>
                 )
             })}
-            
         </div>
     );
 }
