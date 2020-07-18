@@ -1,0 +1,7 @@
+a:focus{
+    outline: none;
+}
+
+a{
+    -webkit-tap-highlight-color: transparent;
+}
