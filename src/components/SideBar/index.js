@@ -11,12 +11,11 @@ function SideBar() {
       <InfoCard
         name={'Puneet Ahuja'}
         title={'SDE@OLX Group | Ex-SDE@Housing.com | Front end Developer | Javascript Enthusiast'}
-        profileImageUrl={'/assets/Profile.jpeg'}
+        profileImageUrl={'/portfolio/assets/Profile.jpeg'}
       />
       <Navigation
         navItems={navItems}
       />
-
     </div>
   );
 }
