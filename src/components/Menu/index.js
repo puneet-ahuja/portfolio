@@ -8,7 +8,7 @@ function Menu() {
 
     return (
         <>
-            {!isMenuOpen && <img src='/portfolio/assets/icons/menu.svg' alt='hamburger-menu' className='hamburger-menu' onClick={()=>setMenuOpen(true)}/>}
+            {!isMenuOpen && <img src='/assets/icons/menu.svg' alt='hamburger-menu' className='hamburger-menu' onClick={()=>setMenuOpen(true)}/>}
             <div className={'overlay' + (isMenuOpen?' show':'')} onClick={()=>setMenuOpen(false)}/>
             <div className={'drawer' + (isMenuOpen?' show':'')}>
                 {isMenuOpen &&  navItems.map((navItem,index)=>{

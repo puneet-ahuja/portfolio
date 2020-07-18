@@ -1,7 +1,7 @@
 {
   "name": "portfolio",
   "version": "0.1.0",
-  "homepage": "https://puneetahuja.in/portfolio",
+  "homepage": "https://puneetahuja.in/",
   "private": true,
   "dependencies": {
     "cra-template": "1.0.3",

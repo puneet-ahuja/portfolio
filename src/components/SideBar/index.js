@@ -11,7 +11,7 @@ function SideBar() {
       <InfoCard
         name={'Puneet Ahuja'}
         title={'SDE@OLX Group | Ex-SDE@Housing.com | Front end Developer | Javascript Enthusiast'}
-        profileImageUrl={'/portfolio/assets/Profile.jpeg'}
+        profileImageUrl={'/assets/Profile.jpeg'}
       />
       <Navigation
         navItems={navItems}

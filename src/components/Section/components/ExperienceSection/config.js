@@ -1,6 +1,6 @@
 export const experiences = [
     {
-        iconUrl: '/portfolio/assets/experienceLogos/olxgroup.png',
+        iconUrl: '/assets/experienceLogos/olxgroup.png',
         alt:'OLX',
         designation: 'Software Development Engineer - UI',
         companyName: 'OLX India Pvt. Ltd.',
@@ -8,7 +8,7 @@ export const experiences = [
         location: 'Gurgaon, India'
     },
     {
-        iconUrl: '/portfolio/assets/experienceLogos/proptiger.png',
+        iconUrl: '/assets/experienceLogos/proptiger.png',
         alt:'Proptiger',
         designation: 'Software Development Engineer - UI',
         companyName: 'Proptiger | Housing.com | Makaan.com',
@@ -16,7 +16,7 @@ export const experiences = [
         location: 'Gurgaon, India'
     },
     {
-        iconUrl: '/portfolio/assets/experienceLogos/nagarro.jpeg',
+        iconUrl: '/assets/experienceLogos/nagarro.jpeg',
         alt:'Nagarro',
         designation: 'Associate',
         companyName: 'Nagarro Software Pvt. Ltd.',
@@ -24,7 +24,7 @@ export const experiences = [
         location: 'Gurgaon, India'
     },
     {
-        iconUrl: '/portfolio/assets/experienceLogos/saxobank.png',
+        iconUrl: '/assets/experienceLogos/saxobank.png',
         alt:'Saxo Bank',
         designation: 'External Consultant',
         companyName: 'Saxo Bank',
@@ -32,7 +32,7 @@ export const experiences = [
         location: 'Gurgaon, India'
     },
     {
-        iconUrl: '/portfolio/assets/experienceLogos/ansaluniversity.png',
+        iconUrl: '/assets/experienceLogos/ansaluniversity.png',
         alt:'Ansal University',
         designation: 'Intern',
         companyName: 'Ansal University',
