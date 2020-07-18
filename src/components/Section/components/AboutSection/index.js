@@ -9,7 +9,7 @@ function AboutSection() {
         <div className="about-section" >
             <div className='about-section-heading'>Hi I'm Puneet.</div>
             <div className='about-section-subheading'>I am currently learning at <strong>OLX India Pvt. Ltd.</strong> as <strong>Front End Engineer</strong></div>
-            <div className='about-section-subheading'>I am <strong>Javascript Enthusiast</strong> with passion of writing scalable, easy-to-understand and clean-UIs..</div>
+            <div className='about-section-subheading'>I am a <strong>Javascript Enthusiast</strong> with passion of writing scalable, easy-to-understand and clean-UIs.</div>
             {aboutDetails.map((details,index)=>{
                 const { title, data=[] } = details
                 return (
