@@ -1,0 +1,23 @@
+.dark-mode {
+    --background-color: #130422;
+    --overlay-color: rgba(229, 229, 234, 1);
+    --text-color-100: rgba(229, 229, 234, 1);
+    --text-color-64: rgba(229, 229, 234,0.64);
+    --background-color-03: rgba(229, 229 , 234, 0.03);
+    --background-color-10: rgba(229, 229 , 234, 0.10);
+    --divider-color-20: rgba(229, 229, 234, 0.20);
+}
+
+.light-mode {
+    --background-color: white;
+    --overlay-color: #130422;
+    --text-color-100: rgba(0, 47, 52, 1);
+    --text-color-64: rgba(0, 47, 52, 0.64);
+    --background-color-03: rgba(0, 47, 52, 0.03);
+    --background-color-10: rgba(0, 47, 52, 0.10);
+    --divider-color-20: rgba(0, 47, 52, 0.20);
+}
+
+.app-root {
+    background-color: var(--background-color);
+}

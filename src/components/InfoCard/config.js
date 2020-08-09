@@ -20,6 +20,7 @@ export const links = [
     {
         href: 'https://github.com/puneet-ahuja',
         iconUrl:'/assets/icons/github.svg',
+        darkModeIconUrl: '/assets/icons/github-white.svg',
         alt:'GitHub',
         name: 'GitHub'
     }

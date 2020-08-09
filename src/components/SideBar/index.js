@@ -3,6 +3,7 @@ import './index.css';
 import InfoCard from '../InfoCard';
 import Navigation from '../Navigation';
 import { navItems } from './config'
+import ThemeSelector from '../ThemeSelector'
 
 // TODO : Need to pass data from some other place.
 function SideBar() {
@@ -16,6 +17,7 @@ function SideBar() {
       <Navigation
         navItems={navItems}
       />
+      <ThemeSelector />
     </div>
   );
 }

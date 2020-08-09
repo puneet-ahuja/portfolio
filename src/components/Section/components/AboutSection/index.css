@@ -3,18 +3,18 @@
 
     font-size: 40px;
     font-weight: bold;
-    color: rgba(0, 47, 52, 1);
+    color: var(--text-color-100);
 }
 
 .about-section-subheading {
     margin: 15px 0;
 
     font-size: 20px;
-    color: rgba(0, 47, 52, 1);
+    color: var(--text-color-100);
 }
 
 .about-section-subheading:last-of-type {
-    border-bottom: 1px solid rgba(0, 47, 52, .20);
+    border-bottom: 1px solid var(--divider-color-20);
     padding-bottom: 30px;
 }
 
@@ -22,7 +22,7 @@
     margin: 20px 0 10px;
     font-size: 24px;
     font-weight: bold;
-    color: rgba(0, 47, 52, .64);
+    color: var(--text-color-64);
 }
 
 @media only screen and (max-width: 450px) {
