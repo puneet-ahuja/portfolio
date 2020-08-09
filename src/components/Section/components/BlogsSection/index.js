@@ -13,7 +13,7 @@ function BlogsSection() {
                         <div className='blog-details'>
                             <div className='blog-title'>{title}</div>
                             <div className='blog-description'>{description}</div>
-                            <a className='blog-link' href={url} target='_blank'>Read More ...</a>
+                            <a className='blog-link' href={url} target='_blank'>Read More</a>
                         </div>
                         
                     </div>

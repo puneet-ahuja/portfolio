@@ -1,7 +1,7 @@
 .section {
     padding: 40px;
     border-radius: 5px;
-    border: 1px solid rgba(0, 47, 52, .2);
+    border: 1px solid var(--divider-color-20);
     margin-bottom: 50px;
 }
 
@@ -14,14 +14,14 @@
     }
 
     .section:not(:last-of-type) {
-        border-bottom: 1px solid rgba(0, 47, 52, .2);;
+        border-bottom: 1px solid var(--divider-color-20);
     }
 }
 
 .section-title{
     font-size: 30px;
     font-weight: bold;
-    color: rgba(0, 47, 52, 1);
+    color: var(--text-color-100);
     text-transform: uppercase;
 
 }

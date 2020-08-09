@@ -8,7 +8,7 @@
 }
 
 .blog-container:not(:last-of-type) {
-    border-bottom: 1px solid  rgba(0, 47, 52, .20);
+    border-bottom: 1px solid  var(--divider-color-20);
 }
 
 .blog-image {
@@ -18,7 +18,7 @@
 
 .blog-details {
     margin-left: 20px;
-    color: rgba(0, 47, 52, 1);
+    color: var(--text-color-100);
 }
 
 .blog-title {
@@ -33,8 +33,8 @@
 }
 
 .blog-link {
-    text-decoration: none;
-    color: rgba(0, 47, 52, 1);
+    text-decoration: underline;
+    color: var(--text-color-100);
     font-weight: bold;
 }
 

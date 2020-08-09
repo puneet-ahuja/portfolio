@@ -9,7 +9,7 @@
 }
 
 .experience-container:not(:last-of-type){
-    border-bottom: 1px solid rgba(0, 47, 52, 0.20);
+    border-bottom: 1px solid var(--divider-color-20); 
 }
 
 .experience-icon {
@@ -24,18 +24,18 @@
 .experience-designation {
     padding-bottom: 5px;
 
-    color: rgba(0, 47, 52, 1);
+    color: var(--text-color-100);
     font-weight: bold;
 }
 
 .experience-company-name {
     padding: 5px 0;
 
-    color: rgba(0, 47, 52, 0.64);
+    color: var(--text-color-64);
     font-weight: bold;
 }
 
 .experience-subheading {
     padding: 3px; 
-    color: rgba(0, 47, 52, 0.64);
+    color: var(--text-color-64);
 }

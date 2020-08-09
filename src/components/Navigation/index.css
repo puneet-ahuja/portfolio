@@ -10,16 +10,15 @@
 
 .navigation-item {
     margin: 10px;
-    
     font-weight: 500;
-    color: rgba(0, 47, 52, 1);
-    background-color: rgba(0, 47, 52, .03);
+    color: var(--text-color-100);
+    background-color: var(--background-color-03);
     border-radius: 5px;
 }
 
 .navigation-item:hover {
     cursor: pointer;
-    background-color: rgba(0, 47, 52, .10);
+    background-color:  var(--background-color-10);
 }
 
 .navigation-link {
