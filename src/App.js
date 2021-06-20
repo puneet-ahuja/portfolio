@@ -21,9 +21,6 @@ function App() {
       }
   }
 
-  
-
-
   return (
     <ThemeContext.Provider value={setectedTheme} >
       <div className = {classnames('app-root',{

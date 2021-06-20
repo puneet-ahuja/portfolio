@@ -12,7 +12,7 @@ export const links = [
         name: 'LinkedIn'
     },
     {
-        href: 'https://www.youtube.com/channel/UCeZTAw0Gccxn8cowQSORyLg',
+        href: 'https://www.youtube.com/channel/UCtf9NkTbitF05Lap2tragZA',
         iconUrl:'/assets/icons/youtube.svg',
         alt:'Youtube',
         name: 'Youtube'
