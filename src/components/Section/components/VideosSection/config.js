@@ -16,7 +16,7 @@ export const videos = [
         url: 'https://www.youtube.com/embed/79yHvDzVA_I'
     },
     {
-        title: 'Implementation of Lazy Loading of Image in React',
+        title: 'React Lazy Image',
         url: 'https://www.youtube.com/embed/cfQR3f4eXv0'
     },
     {
