@@ -4,8 +4,10 @@
   "homepage": "https://puneetahuja.in/",
   "private": true,
   "dependencies": {
+    "aws-sdk": "^2.738.0",
     "classnames": "^2.2.6",
     "cra-template": "1.0.3",
+    "newrelic": "^6.12.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.1"
